@@ -1,0 +1,48 @@
+offset			偏移
+offsetTop		距离定位父盒子顶部距离
+offsetLeft		距离定位父盒子左侧距离
+offsetWidth		盒子宽带border和padding
+offsetHeight		盒子高带border和padding
+offsetParent		有定位的父盒子
+animate			赋予生命，有生气（编程指动画）
+target			目标
+speed			速度，步长
+abs			绝对值
+aotuPlay		自动播放
+ceil			天花板（向上）
+floor			地板（向下）
+leader			领导者（当前位置）
+timer			定时器
+scrollTop		被卷去的头部
+scrollLeft		被卷去的左侧
+scrollHeight:   	内容高，不含border
+scrollWidth:    	内容宽，不含border
+onscroll		滚动事件
+scrollTo		滚到哪里
+event			事件对象
+pageX			鼠标在页面的横坐标位置
+pageY			鼠标在页面的纵坐标位置
+clientX			鼠标在可视区的横坐标位置
+clientY			鼠标在可视区的纵坐标位置
+screenX			鼠标在屏幕的横坐标位置
+screenY			鼠标在屏幕的纵坐标位置
+onmousemove		鼠标移动
+onmousedown		鼠标按下
+onmouseup		鼠标弹起
+clientHeight:   	盒子高，height+padding
+clientWidth:    	盒子宽，width+padding
+clientTop:   		盒子的上border宽
+clientLeft:    		盒子的左border宽
+stopPropagation		停止传播
+cancelBubble		取消冒泡
+getComputedStyle	获取电脑中的属性
+currentStyle		获取当前属性
+RegExp			正则表达式对象
+test			练习测试
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+document		文档
+get			获取
+element			元素
+by			通过
+id			ID
+className		类名
+tagName			标签名
+onclick			点击
+oninput			输入
+onchange		改变
+on mouse over		在...之上		
+on mouse out		鼠标在...之外
+onkeyup			按键弹起
+parentNode		父节点
+firstChild		第一个子节点
+first Element Child	第一个子节点
+lastChild		最后一个子节点
+last Element Child	最后一个子节点
+next Sibling 		下一个兄弟节点
+next Element Sibling	下一个兄弟节点
+previous Sibling 	上一个兄弟节点
+previous Element Sibling	上一个兄弟节点
+childNodes		所有子节点
+children		所有子节点
+createElement		创建子节点
+appendChild		添加子节点
+removeChild		删除子节点
+insertBefore		添加子节点
+cloneNode		克隆节点
+setAttribute		设置属性
+getAttribute		获取属性
+removeAttribute		删除属性
+innerHTML		标签内容
+innerText		标签文本
+innerContent		标签文本
+
